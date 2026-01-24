@@ -1,0 +1,12 @@
+[
+    {
+        "version": "2.1.0",
+        "changelog": [
+            "Sistema de cofres con ox_target",
+            "Integración con ganzúas",
+            "Soporte multiidioma",
+            "Interfaz HTML mejorada"
+        ],
+        "updateFiles": []
+    }
+]
