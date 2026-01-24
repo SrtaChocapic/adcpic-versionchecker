@@ -16,8 +16,6 @@
             "Mejoras en la interfaz de usuario"
         ],
         "updateFiles": [
-            "server/server.lua",
-            "html/script.js",
             "config.lua"
         ]
     }
