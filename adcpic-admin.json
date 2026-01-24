@@ -1,0 +1,12 @@
+[
+    {
+        "version": "1.0.0",
+        "changelog": [
+            "Panel de administración completo",
+            "Sistema multiidioma implementado",
+            "Sistema de caché optimizado",
+            "Interfaz HTML moderna"
+        ],
+        "updateFiles": []
+    }
+]
