@@ -1,0 +1,12 @@
+[
+    {
+        "version": "1.1.0",
+        "changelog": [
+            "Sistema de vampirismo completo",
+            "Enfermedad Porfiria implementada",
+            "Minijuego de control añadido",
+            "Sistema de transformación animal"
+        ],
+        "updateFiles": []
+    }
+]
