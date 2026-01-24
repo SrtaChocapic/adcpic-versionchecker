@@ -2,10 +2,10 @@
     {
         "version": "1.0.0",
         "changelog": [
-            "Panel de administración completo",
-            "Sistema multiidioma implementado",
-            "Sistema de caché optimizado",
-            "Interfaz HTML moderna"
+            "Panel de administración completo/ Full administration panel",
+            "Sistema multiidioma implementado/ Implemented multilingual system",
+            "Sistema de caché optimizado/ Optimized caching system",
+            "Interfaz HTML moderna/ Modern HTML interface"
         ],
         "updateFiles": []
     }
