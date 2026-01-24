@@ -1,0 +1,24 @@
+[
+    {
+        "version": "1.0.0",
+        "changelog": [
+            "Versión inicial del sistema de negocios",
+            "Sistema completo de compra/venta",
+            "Integración con VORP Core y oxmysql"
+        ],
+        "updateFiles": []
+    },
+    {
+        "version": "1.0.1",
+        "changelog": [
+            "Corrección de bugs menores",
+            "Optimización de consultas SQL",
+            "Mejoras en la interfaz de usuario"
+        ],
+        "updateFiles": [
+            "server/server.lua",
+            "html/script.js",
+            "config.lua"
+        ]
+    }
+]
