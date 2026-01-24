@@ -2,10 +2,10 @@
     {
         "version": "1.1.0",
         "changelog": [
-            "Sistema de vampirismo completo",
-            "Enfermedad Porfiria implementada",
-            "Minijuego de control añadido",
-            "Sistema de transformación animal"
+            "Sistema de vampirismo completo / Full vampirism system",
+            "Enfermedad Porfiria implementada / Porphyria disease implemented",
+            "Minijuego de control añadido / Control minigame added",
+            "Sistema de transformación animal / Animal transformation system"
         ],
         "updateFiles": []
     }
