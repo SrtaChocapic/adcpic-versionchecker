@@ -1,0 +1,12 @@
+[
+    {
+        "version": "1.0.1",
+        "changelog": [
+            "Sistema de caza completo implementado",
+            "Integración con VORP Core",
+            "Sistema de recompensas por animales",
+            "Configuración personalizable"
+        ],
+        "updateFiles": []
+    }
+]
