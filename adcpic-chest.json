@@ -1,0 +1,21 @@
+[
+    {
+        "version": "1.0.0",
+        "changelog": [
+            "Sistema de cofres con ox_target / Chest system with ox_target",
+            "Integración con ganzúas / Lockpick integration",
+            "Soporte multiidioma / Multi-language support",
+            "Interfaz HTML mejorada / Enhanced HTML interface",
+            "Múltiples tipos de cofres / Multiple chest types",
+            "Sistema de dar llaves por comando / Key-giving system via command",
+            "Colocación dinámica con preview en tiempo real y rotación / Dynamic placement with real-time preview and rotation",
+            "Capacidades de almacenamiento personalizables según el tipo de cofre / Customizable storage capacities based on chest type",
+            "Sistema de ganzúas para acceso temporal de 60 segundos a cofres ajenos / Lockpicking system for temporary 60-second access to other players' chests",
+            "Webhooks de Discord para monitorear toda la actividad / Discord webhooks to monitor all activity",
+            "Comandos de administración para crear y gestionar cofres / Administrative commands for creating and managing chests",
+            "Compatible con ox_target para interacciones / Compatible with ox_target for interactions",
+            "Al recoger el cofre los items se borran de la sql / Upon collecting a chest, items are removed from the SQL database"
+        ],
+        "updateFiles": []
+    }
+]
