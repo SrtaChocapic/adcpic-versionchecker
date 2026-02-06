@@ -8,5 +8,21 @@
             "Configuración personalizable / Customizable configuration"
         ],
         "updateFiles": []
-    }
+    },
+  {
+        "version": "1.0.2",
+        "changelog":
+       " ✅ Corregido: Los animales ahora se eliminan correctamente después de procesarlos",
+
+       " ✅ Corregido: Las notificaciones ahora muestran correctamente los items recibidos",
+
+       " ✅ Mejorado: Sistema de eliminación de entidades más robusto",
+
+      " ✅ Mejorado: Todas las notificaciones usan el sistema de idiomas correctamente" ,
+    ],
+       "updateFiles": [
+           "server",
+           "client",
+       ]
+    },  
 ]
