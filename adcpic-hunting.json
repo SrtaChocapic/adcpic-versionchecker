@@ -27,7 +27,7 @@
         "changelog": [
             "✅ Corregido: Los animales ahora se eliminan correctamente después de procesarlos",
             "✅ Mejorado: Sistema de eliminación de entidades más robusto y ventas desde el caballo con las prompts",
-            "con promp nativo r y los pormp activos en el config venta de pieles de caballo y target ox  (  proximamente)"
+            "✅ Con promp nativo r y los pormp activos en el config venta de pieles de caballo y target ox  (  proximamente)"
           
         ],
         "updateFiles": [
