@@ -2,11 +2,11 @@
     {
         "version": "1.0.0",
         "changelog": [
-            "Sistema de cofres con ox_target / Chest system with ox_target",
+           "Sistema de cofres con ox_target / Chest system with ox_target",
             "Integración con ganzúas / Lockpick integration",
             "Soporte multiidioma / Multi-language support"
         ],
         "updateFiles": []
-    }
+    },
 ]
 
