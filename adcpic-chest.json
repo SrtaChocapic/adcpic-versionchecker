@@ -7,6 +7,16 @@
             "Soporte multiidioma / Multi-language support"
         ],
         "updateFiles": []
-    }
+     },
+    {
+        "version": "1.0.1",
+        "changelog": [
+            "✅ Corregido: Los cofres ahora puedes colocarlos en interiores",
+        ],
+        "updateFiles": [
+            "server",
+            "client"
+        ]
+    },
 ]
 
