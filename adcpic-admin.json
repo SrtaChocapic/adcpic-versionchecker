@@ -8,5 +8,17 @@
             "Interfaz HTML moderna/ Modern HTML interface"
         ],
         "updateFiles": []
-    }
+     },
+    {
+        "version": "1.0.1",
+        "changelog": [
+            "✅ Corregido: Las notificaciones ahora se pueden activar y desactivar",
+            "✅ Corregido: El modo invisible ahora funciona entre jugadores",
+        ],
+        "updateFiles": [
+            "server",
+            "client",
+            "html"
+        ]
+    },
 ]
