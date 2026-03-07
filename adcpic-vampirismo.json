@@ -8,5 +8,17 @@
             "Sistema de transformación animal / Animal transformation system"
         ],
         "updateFiles": []
-    }
+        },
+     {
+        "version": "1.0.1",
+        "changelog": [
+            "✅ Corregido: Se ha añadido nuevos exports para outsider_needs",
+        ],
+        "updateFiles": [
+            "server",
+            "client",
+            "config",
+            "exports"
+        ]
+    },
 ]
